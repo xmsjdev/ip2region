@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 /**
- * This file is part of the qlantech.
+ * This file is part of the Xmsjdev.
  *
- * (c) Qlantech <guanfang@changdou.vip>
+ * (c) Xmsjdev <dev@xiamenshiji.vip>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.

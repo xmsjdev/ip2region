@@ -2,17 +2,17 @@
 
 declare(strict_types=1);
 /**
- * This file is part of the hyperf-ip2region.
+ * This file is part of the Xmsjdev.
  *
- * (c) trrtly <328602875@qq.com>
+ * (c) Xmsjdev <dev@xiamenshiji.vip>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 $header = <<<'EOF'
-This file is part of the hyperf-ip2region.
+This file is part of the Xmsjdev.
 
-(c) trrtly <328602875@qq.com>
+(c) Xmsjdev <dev@xiamenshiji.vip>
 
 For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
