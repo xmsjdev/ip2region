@@ -23,11 +23,8 @@ use Hyperf\Di\Annotation\Inject;
 
 class Example
 {
-    /**
-     * @Inject
-     * @var Ip2region
-     */
-    protected $ip2region;
+    #[Inject]
+    protected Ip2region $ip2region;
 
     public function query()
     {

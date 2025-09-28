@@ -1,3 +1,2 @@
 /tests export-ignore
 /.github export-ignore
-src/db/*.xdb filter=lfs diff=lfs merge=lfs -text
